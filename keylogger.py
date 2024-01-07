@@ -1,7 +1,6 @@
 import smtplib, ssl
 import pynput
 from pynput.keyboard import Key,Listener
-import sendmail
 
 
 
